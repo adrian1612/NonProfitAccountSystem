@@ -176,6 +176,7 @@
     <Compile Include="Models\tbl_Subscriber.cs" />
     <Compile Include="Models\tbl_User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Content Include="scripts.sql" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\all.css" />
